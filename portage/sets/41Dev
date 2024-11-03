@@ -29,7 +29,7 @@ dev-python/statsmodels
 dev-python/scipy
 dev-python/matplotlib
 dev-python/seaborn
-##sci-libs/pytorch
+## sci-libs/pytorch
 dev-python/jupyter
 dev-python/PyQtWebEngine
 
