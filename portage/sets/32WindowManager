@@ -4,11 +4,11 @@ app-misc/ufetch
 dev-libs/date
 
 # Hyprland
-gui-apps/waybar
-gui-apps/wofi
-gui-wm/hyprland
-gui-apps/hyprpaper
-app-misc/brightnessctl
+#gui-apps/waybar
+#gui-apps/wofi
+#gui-wm/hyprland
+#gui-apps/hyprpaper
+#app-misc/brightnessctl
 
 # Suckless
 x11-wm/dwm
@@ -21,8 +21,8 @@ x11-terms/alacritty
 
 # Screenshot
 media-gfx/flameshot
-gui-apps/grim
-gui-apps/slurp
+#gui-apps/grim
+#gui-apps/slurp
 
 # X11
 x11-apps/xsetroot

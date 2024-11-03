@@ -16,7 +16,7 @@ sys-power/acpi
 # Extras
 sys-boot/syslinux
 ##sys-kernel/modprobed-db
-dev-libs/libisoburn
+##dev-libs/libisoburn
 sys-fs/dosfstools
 sys-fs/dosfstools
 

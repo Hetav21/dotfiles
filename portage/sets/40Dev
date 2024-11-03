@@ -1,19 +1,24 @@
+# Misc
 app-admin/awscli
-app-containers/docker
-app-containers/docker-cli
-app-containers/docker-compose
-app-editors/sublime-text
-app-editors/vscode
 app-misc/ollama
-dev-debug/gdb
-dev-debug/lldb
-dev-lang/python
 dev-util/github-cli
 media-sound/spotify
 net-misc/megasync
 
+# IDE
+app-editors/sublime-text
+app-editors/vscode
+
+# Docker
+app-containers/docker
+app-containers/docker-cli
+app-containers/docker-compose
+
+# Debugger
+dev-debug/gdb
+dev-debug/lldb
+
 # Cuda
-sys-libs/libnvidia-container
 dev-util/nvidia-cuda-toolkit
 
 # Python Dev

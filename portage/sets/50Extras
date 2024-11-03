@@ -1,15 +1,19 @@
-app-arch/dpkg
-app-arch/rpm
-app-containers/distrobox
-app-containers/nvidia-container-toolkit
-app-misc/media-player-info
-dev-libs/cudnn
-dev-libs/cudnn-frontend
+# Tools
+## app-misc/media-player-info
 gnome-extra/gnome-calculator
 media-video/obs-studio
 net-analyzer/ookla-speedtest
+
+# Package Management
+app-arch/dpkg
+app-arch/rpm
 sys-apps/nix
+
+# Containers
+app-containers/distrobox
+app-containers/nvidia-container-toolkit
 
 # Emulation
 app-emulation/wine-proton
 app-emulation/winetricks
+

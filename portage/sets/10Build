@@ -9,3 +9,4 @@ sys-devel/lld
 sys-devel/llvm
 sys-devel/mold
 dev-java/openjdk
+dev-lang/python
