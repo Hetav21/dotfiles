@@ -1,0 +1,44 @@
+# Fetch
+app-misc/fastfetch
+app-misc/ufetch
+dev-libs/date
+
+# Hyprland
+gui-apps/waybar
+gui-apps/wofi
+gui-wm/hyprland
+gui-apps/hyprpaper
+app-misc/brightnessctl
+
+# Suckless
+x11-wm/dwm
+x11-misc/dmenu
+x11-misc/clipmenu
+
+# Terminals
+x11-terms/st
+x11-terms/alacritty
+
+# Screenshot
+media-gfx/flameshot
+gui-apps/grim
+gui-apps/slurp
+
+# X11
+x11-apps/xsetroot
+x11-misc/slock
+x11-apps/xbacklight
+
+# Picom
+x11-misc/picom
+
+# Feh
+media-gfx/feh
+
+# Randr
+x11-apps/xrandr
+x11-misc/arandr
+
+# LightDM
+x11-misc/lightdm
+x11-misc/light-locker

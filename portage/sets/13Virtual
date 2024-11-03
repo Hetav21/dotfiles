@@ -1,0 +1,7 @@
+virtual/cron
+virtual/libcrypt
+virtual/libudev
+virtual/opencl
+virtual/rust
+virtual/tmpfiles
+virtual/jdk

@@ -1,0 +1,76 @@
+app-admin/eclean-kernel
+app-admin/restart-services
+app-admin/sudo
+app-text/ansifilter
+dev-debug/dtrace
+dev-libs/openssl
+dev-util/pkgcheck
+sys-apps/cpuid
+sys-apps/dbus
+sys-apps/fwupd
+sys-apps/hwloc
+sys-apps/mlocate
+sys-apps/paxctl
+sys-power/acpi
+
+# Extras
+sys-boot/syslinux
+##sys-kernel/modprobed-db
+dev-libs/libisoburn
+sys-fs/dosfstools
+sys-fs/dosfstools
+
+# Kernel
+sys-kernel/cachyos-sources
+sys-kernel/dracut
+sys-kernel/gentoo-kernel-bin
+sys-kernel/installkernel
+sys-kernel/linux-firmware
+sys-kernel/linux-headers
+
+# Grub
+sys-boot/grub
+sys-boot/os-prober
+
+# Hardware
+sys-apps/nvme-cli
+sys-apps/pciutils
+sys-apps/watchdog
+sys-block/io-scheduler-udev-rules
+
+# Init and FS stuff
+sys-apps/systemd
+sys-process/systemd-cron
+sys-fs/ntfs3g
+sys-fs/udiskie
+sys-block/parted
+sys-fs/btrfs-progs
+sys-fs/btrfsmaintenance
+
+# Security
+sys-auth/pambase
+sys-auth/polkit
+sys-auth/rtkit
+sys-auth/seatd
+sys-process/audit
+
+# Utilities
+app-text/wgetpaste
+sys-libs/timezone-data
+
+# App Alternatives
+app-alternatives/bc
+app-alternatives/cpio
+app-alternatives/lex
+app-alternatives/ninja
+app-alternatives/yacc
+
+# Editors
+app-editors/nano
+app-editors/vim
+
+# Eseslect
+app-eselect/eselect-python
+
+app-misc/tmux
+app-vim/gentoo-syntax

@@ -1,0 +1,4 @@
+
+LUA_SINGLE_TARGET="lua5-1"
+LUA_TARGETS="lua5-1"
+USE="${USE} -lua_single_target_lua5-4 lua_single_target_lua5-1"

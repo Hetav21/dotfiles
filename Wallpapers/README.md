@@ -1,0 +1,4 @@
+dithered
+landscapes
+misc
+wallpapers

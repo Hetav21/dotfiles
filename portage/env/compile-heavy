@@ -1,0 +1,16 @@
+FEATURES="${FEATURES} ccache"
+CCACHE_DIR="/var/cache/ccache"
+CCACHE_COMPRESS=true
+CCACHE_SIZE="70G"
+
+# Allow write access to sccache cache directory
+SANDBOX_WRITE="/var/cache/sccache/"
+RUSTC_WRAPPER=/usr/bin/sccache
+SCCACHE_DIR=/var/cache/sccache
+SCCACHE_MAX_FRAME_LENGTH=104857600
+
+#CCACHE_RECACHE=true
+
+# May be needed to workaround a bug, but has some security implications
+# https://bugs.gentoo.org/492910
+#CCACHE_UMASK="0002"

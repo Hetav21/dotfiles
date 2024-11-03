@@ -1,0 +1,12 @@
+# Linux Firmware
+sys-kernel/linux-firmware linux-fw-redistributable
+sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
+
+# Microsoft Vscode
+app-editors/vscode Microsoft-vscode
+
+# Nvidia Cuda
+dev-util/nvidia-cuda-toolkit NVIDIA-CUDA
+
+# Ookla Speedtest
+net-analyzer/ookla-speedtest Ookla

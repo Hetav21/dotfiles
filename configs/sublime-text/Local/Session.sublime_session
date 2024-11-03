@@ -1,0 +1,1446 @@
+{
+	"file_history":
+	[
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/previousGreaterElement.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/RemoveConsecutiveDublicatesInAString.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/nextGreaterElement.cpp",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/13/include/g++-v13/bits/stl_stack.h",
+		"/home/hetav/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
+		"/home/hetav/.config/sublime-text/Packages/User/Terminal.sublime-settings",
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/BalancedBrackets.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/Stacks.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/ReverseStack.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/output.txt",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/Stacks.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/input.txt",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_430.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_2074.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_138.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_2058.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_725.cpp",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/output.txt",
+		"/home/hetav/CODE/helloC/hello.c",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/input.txt",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/temp.txt",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/LRU.cpp",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/main.cpp",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/output.txt",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/new.cpp",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/FIFO.cpp",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/optimal.cpp",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/lab.cpp",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/LFU.cpp",
+		"/home/Archbtw/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
+		"/home/Archbtw/.config/sublime-text/Packages/User/Terminal.sublime-settings",
+		"/home/Archbtw/.config/sublime-text/Packages/User/Terminal (Linux).sublime-settings",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/FIFO",
+		"/home/Archbtw/CODE",
+		"/home/Archbtw/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/Archbtw/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/Archbtw/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/Archbtw/.config/sublime-text/Packages/User/Plain text.sublime-settings",
+		"/home/Archbtw/.config/sublime-text/Packages/Default/Distraction Free.sublime-settings",
+		"/home/Archbtw/.config/sublime-text/Packages/User/Distraction Free.sublime-settings",
+		"/home/Archbtw/.config/sublime-text/Packages/User/Preferences.sublime-settings"
+	],
+	"folder_history":
+	[
+		"/home/hetav",
+		"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks",
+		"/home/hetav/CODE/DECODE/lecturePrograms",
+		"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList",
+		"/home/hetav/CODE/helloC",
+		"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16"
+	],
+	"last_version": 4169,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"next_update_check": 1721124239,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1049.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			1.0,
+			30.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ne",
+						"nextGreaterElement"
+					],
+					[
+						"rem",
+						"removeDublicates"
+					],
+					[
+						"te",
+						"temp2"
+					],
+					[
+						"tem",
+						"temp2"
+					],
+					[
+						"stack",
+						"printStack_BoilerPlate_bigPapa\tStackPrint"
+					],
+					[
+						"d",
+						"duplicate"
+					],
+					[
+						"gr",
+						"grpStartPtr"
+					],
+					[
+						"grp",
+						"grpSize"
+					],
+					[
+						"Pre",
+						"PreviousCNIdx"
+					],
+					[
+						"spl",
+						"splitListToParts"
+					],
+					[
+						"n",
+						"nFrame"
+					],
+					[
+						"L",
+						"LFU"
+					],
+					[
+						"obj",
+						"obj4"
+					],
+					[
+						"ob",
+						"obj3"
+					],
+					[
+						"o",
+						"obj2"
+					],
+					[
+						"Swi",
+						"switch\tsyntax_switchCase"
+					],
+					[
+						"e",
+						"elementFromRefString"
+					],
+					[
+						"aut",
+						"autoITR\tautoITR"
+					],
+					[
+						"fre",
+						"freq"
+					],
+					[
+						"be",
+						"begin"
+					],
+					[
+						"cut",
+						"currentFrame"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/_CP_CONTEST.sublime-build",
+							""
+						],
+						[
+							"Packages/User/_CP_CONTEST.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/_PS_LC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/_PS_LC.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/bigPapa_gcc _cpp23.sublime-build",
+							""
+						],
+						[
+							"Packages/User/bigPapa_gcc _cpp23.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBuildSystem.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newBuildSystem.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBS/bigPapa_gcc_cpp23_Wextra.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newBS/bigPapa_gcc_cpp23_Wextra.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBS/LINUX_bigPapa_clang.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newBS/LINUX_bigPapa_clang.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBS/newBS_gcc.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 168.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/output.txt",
+				"/home/hetav/fastfetch",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/previousGreaterElement.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/RemoveConsecutiveDublicatesInAString.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/nextGreaterElement.cpp",
+				"/usr/lib/gcc/x86_64-pc-linux-gnu/13/include/g++-v13/bits/stl_stack.h",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/BalancedBrackets.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/Stacks.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/ReverseStack.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/Stacks.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/input.txt",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_430.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_2074.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_138.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_2058.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_725.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/output.txt",
+				"/home/hetav/CODE/helloC/hello.c",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/input.txt",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/temp.txt",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/LRU.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/main.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/output.txt",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/new.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/FIFO.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/optimal.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/lab.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/LFU.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/FIFO",
+				"/home/Archbtw/CODE"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"menu_visible": false,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 337.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 180.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1054.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ne",
+						"nextGreaterElement"
+					],
+					[
+						"rem",
+						"removeDublicates"
+					],
+					[
+						"te",
+						"temp2"
+					],
+					[
+						"tem",
+						"temp2"
+					],
+					[
+						"stack",
+						"printStack_BoilerPlate_bigPapa\tStackPrint"
+					],
+					[
+						"d",
+						"duplicate"
+					],
+					[
+						"gr",
+						"grpStartPtr"
+					],
+					[
+						"grp",
+						"grpSize"
+					],
+					[
+						"Pre",
+						"PreviousCNIdx"
+					],
+					[
+						"spl",
+						"splitListToParts"
+					],
+					[
+						"n",
+						"nFrame"
+					],
+					[
+						"L",
+						"LFU"
+					],
+					[
+						"obj",
+						"obj4"
+					],
+					[
+						"ob",
+						"obj3"
+					],
+					[
+						"o",
+						"obj2"
+					],
+					[
+						"Swi",
+						"switch\tsyntax_switchCase"
+					],
+					[
+						"e",
+						"elementFromRefString"
+					],
+					[
+						"aut",
+						"autoITR\tautoITR"
+					],
+					[
+						"fre",
+						"freq"
+					],
+					[
+						"be",
+						"begin"
+					],
+					[
+						"cut",
+						"currentFrame"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"file": "/home/hetav/fastfetch",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix",
+						"unsaved": true
+					}
+				},
+				{
+					"file": "/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/input.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/output.txt",
+					"settings":
+					{
+						"buffer_size": 51,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAGAAAANDQwMzMwAAAAAAAAAAAKAAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							3,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAKAAAANAo0MAozCjMwCgAAAAAAAAAACgAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							4,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAKAAAANAo0MAozCjMwCgAAAAAAAAAAFgAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							5,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAWAAAANAo0MAo0MCAzMCAyMCAxMCAzCjMwCgAAAAAAAAAAFwAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							6,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAXAAAANAo0MAo0MCAzMCAyMCAxMCAKMwozMAoAAAAAAAAAACEAAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							7,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAhAAAANAo0MAo0MCAzMCAyMCAxMCAKMwozMAozMCAyMCAxMCAKAAAAAAAAAAAhAAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							8,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAhAAAANAo0MAo0MCAzMCAyMCAxMCAKMwozMAozMCAyMCAxMCAKAAAAAAAAAAAQAAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							9,
+							1,
+							"revert",
+							null,
+							"BAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAANTAgNDAgMzAgMjAgMTAgCgAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"BAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAANTAgNDAgMzAgMjAgMTAgCjEwIDIwIDMwIDQwIDUwIAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"revert",
+							null,
+							"BQAAAAAAAAAAAAAAAAAAAAAAAAAOAAAAYWFhYmJjZGRhYWJmZmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAjAAAANjE2MSA2MTYyIDYyNjMgNjQ2NCA2MTAwIDYyNjYgNjY2NyAAAAAAAAAAACMAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAjAAAANjE2MSA2MTYyIDYyNjMgNjQ2NCA2MTAwIDYyNjYgNjY2NyAAAAAAAAAAAFIAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABSAAAAMDAyMCA2NzIwIDY2MjAgNjIyMCA2MTIwIDY0MjAgNjMyMCA2MjIwCjYxMjAgMGE2MSA2MTYxIDYyNjIgNjM2NCA2NDYxIDAwNjIgNjY2Ngo2NwAAAAAAAAAAUgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABSAAAAMDAyMCA2NzIwIDY2MjAgNjIyMCA2MTIwIDY0MjAgNjMyMCA2MjIwCjYxMjAgMGE2MSA2MTYxIDYyNjIgNjM2NCA2NDYxIDYxNjIgNjY2Ngo2NwAAAAAAAAAAUgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABSAAAAMDAyMCA2NzIwIDY2MjAgNjIyMCA2MTIwIDY0MjAgNjMyMCA2MjIwCjYxMjAgMGE2MSA2MTYxIDYyNjIgNjM2NCA2NDYxIDYxNjIgNjY2Ngo2NwAAAAAAAAAAeAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAB4AAAANjE2MSA2MTYyIDYyNjMgNjQ2NCA2MTYxIDYyNjYgNjY2NyAwYTAwCjIwNjcgMjA2NiAyMDYyIDIwNjEgMjA2NCAyMDYzIDIwNjIgMjA2MQoyMDBhIDYxNjEgNjE2MiA2MjYzIDY0NjQgNjE2MSA2MjY2IDY2NjcKAAAAAAAAAAB4AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAB4AAAANjE2MSA2MTYyIDYyNjMgNjQ2NCA2MTYxIDYyNjYgNjY2NyAwYTAwCjIwNjcgMjA2NiAyMDYyIDIwNjEgMjA2NCAyMDYzIDIwNjIgMjA2MQoyMDBhIDYxNjEgNjE2MiA2MjYzIDY0NjQgNjE2MSA2MjY2IDY2NjcKAAAAAAAAAAB4AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAB4AAAANjE2MSA2MTYyIDYyNjMgNjQ2NCA2MTYxIDYyNjYgNjY2NyAwYTAwCjIwNjcgMjA2NiAyMDYyIDIwNjEgMjA2NCAyMDYzIDIwNjIgMjA2MQoyMDBhIDYxNjEgNjE2MiA2MjYzIDY0NjQgNjE2MSA2MjY2IDY2NjcKAAAAAAAAAAAdAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAB0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAB0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAB0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAB0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAHgAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAB4AAAANjE2MSA2MTYyIDYyNjMgNjQ2NCA2MTYxIDYyNjYgNjY2NyAwYTAwCjIwNjcgMjA2NiAyMDYyIDIwNjEgMjA2NCAyMDYzIDIwNjIgMjA2MQoyMDBhIDYxNjEgNjE2MiA2MjYzIDY0NjQgNjE2MSA2MjY2IDY2NjcKAAAAAAAAAAAdAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAB0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAB0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAA8AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							55,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAABVAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABVAAAANjE2MSA2MTYyIDYyNjMgNjQ2NCA2MTYxIDYyNjYgNjY2NyAwYTAwCjIwNjcgMjA2NiAyMDYyIDIwNjEgMjA2NCAyMDYzIDIwNjIgMjA2MQoyMDBhIAAAAAAAAAAADwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							58,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							64,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAdAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							66,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAYWFhYmJjZGRhYWJmZmcKYWFhYmJjZGRhYWJmZmcAAAAAAAAAAA8AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							68,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAYWFhYmJjZGRhYWJmZmcKAAAAAAAAAAARAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							2,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							3,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							4,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							5,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							6,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							7,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							8,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							9,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAARAAAAMyAxIDIgNyA0IDYgMiAzIAoAAAAAAAAAACMAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							22,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAjAAAAMyAxIDIgNyA0IDYgMiAzIAo3IDIgNyAtMSA2IC0xIDMgMyAAAAAAAAAAACQAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAABrQA"
+						],
+						[
+							23,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAMyAxIDIgNyA0IDYgMiAzIAo3IDIgNyAtMSA2IC0xIDMgLTEgAAAAAAAAAAA0AAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							24,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAA0AAAAMwkgMQkgMgkgNwkgNAkgNgkgMgkgMwkgCjcJIDIJIDcJIC0xCSA2CSAtMQkgMwkgLTEJIAAAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							25,
+							1,
+							"revert",
+							null,
+							"BAAAAAAAAAAAAAAAAAAAAAAAAAAzAAAAMwkgMQkgMgkgNwkgNAkgNgkgMgkgMwkgCi0xCSAzCSAzCSAtMQkgNwkgNwkgNgkgNgkgAAAAAAAAAAAzAAAAAAAAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				}
+			],
+			"build_system": "Packages/C++/C++ Single File.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/_CP_CONTEST.sublime-build",
+							""
+						],
+						[
+							"Packages/User/_CP_CONTEST.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/_PS_LC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/_PS_LC.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/bigPapa_gcc _cpp23.sublime-build",
+							""
+						],
+						[
+							"Packages/User/bigPapa_gcc _cpp23.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBuildSystem.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newBuildSystem.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBS/bigPapa_gcc_cpp23_Wextra.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newBS/bigPapa_gcc_cpp23_Wextra.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBS/LINUX_bigPapa_clang.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newBS/LINUX_bigPapa_clang.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/newBS/newBS_gcc.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 168.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks"
+			],
+			"file_history":
+			[
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/previousGreaterElement.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/RemoveConsecutiveDublicatesInAString.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/nextGreaterElement.cpp",
+				"/usr/lib/gcc/x86_64-pc-linux-gnu/13/include/g++-v13/bits/stl_stack.h",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/BalancedBrackets.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/Stacks.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/ReverseStack.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/output.txt",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/Stacks.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/input.txt",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_430.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_2074.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_138.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_2058.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/LC_725.cpp",
+				"/home/hetav/CODE/DECODE/lecturePrograms/21_LinkedList/output.txt",
+				"/home/hetav/CODE/helloC/hello.c",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/input.txt",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/temp.txt",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/LRU.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/main.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/output.txt",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/new.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/FIFO.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/optimal.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/lab.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/LFU.cpp",
+				"/home/Archbtw/CODE/COLLEGE/OSlab/lab_16/FIFO",
+				"/home/Archbtw/CODE"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/hetav/fastfetch",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/input.txt",
+							"selected": true,
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/hetav/CODE/DECODE/lecturePrograms/22_Stacks/output.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 51,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										34,
+										34
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.653951102763,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 337.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,29,1054,1078,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 180.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

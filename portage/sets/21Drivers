@@ -1,0 +1,11 @@
+media-libs/libva-intel-media-driver
+media-libs/nvidia-vaapi-driver
+dev-util/vulkan-tools
+media-libs/vulkan-layers
+media-libs/vulkan-loader
+media-video/libva-utils
+x11-misc/vdpauinfo
+
+x11-misc/prime-run
+x11-apps/mesa-progs
+x11-apps/igt-gpu-tools

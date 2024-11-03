@@ -1,0 +1,3 @@
+sys-firmware/intel-microcode
+sys-firmware/sof-firmware
+media-libs/mesa

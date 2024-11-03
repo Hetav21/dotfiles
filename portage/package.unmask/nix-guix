@@ -1,0 +1,2 @@
+sys-apps/guix::nix-guix
+dev-scheme/guile

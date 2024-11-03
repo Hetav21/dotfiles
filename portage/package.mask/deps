@@ -1,0 +1,9 @@
+#sys-devel/gcc
+#sys-devel/llvm
+#sys-devel/clang
+#media-video/ffmpeg
+#dev-lang/rust
+#net-libs/nodejs
+#dev-debug/gdb
+#dev-debug/lldb
+#dev-qt/qtbase

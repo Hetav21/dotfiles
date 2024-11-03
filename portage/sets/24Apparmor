@@ -1,0 +1,5 @@
+sec-policy/apparmor-profiles
+sys-apps/apparmor
+sys-apps/apparmor-utils
+sys-apps/bubblewrap
+sys-libs/libapparmor

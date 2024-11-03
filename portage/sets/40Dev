@@ -1,0 +1,35 @@
+app-admin/awscli
+app-containers/docker
+app-containers/docker-cli
+app-containers/docker-compose
+app-editors/sublime-text
+app-editors/vscode
+app-misc/ollama
+dev-debug/gdb
+dev-debug/lldb
+dev-lang/python
+dev-util/github-cli
+media-sound/spotify
+net-misc/megasync
+
+# Cuda
+sys-libs/libnvidia-container
+dev-util/nvidia-cuda-toolkit
+
+# Python Dev
+dev-python/pandas
+dev-python/numpy
+dev-python/scikit-learn
+dev-python/statsmodels
+dev-python/scipy
+dev-python/matplotlib
+dev-python/seaborn
+##sci-libs/pytorch
+dev-python/jupyter
+dev-python/PyQtWebEngine
+
+# Tex
+app-text/texlive
+dev-texlive/texlive-xetex
+dev-texlive/texlive-latexextra
+

@@ -1,0 +1,12 @@
+media-plugins/alsa-plugins
+media-sound/alsa-utils
+media-sound/bluez-alsa
+media-sound/jack2
+media-sound/pavucontrol
+media-sound/pulsemixer
+net-wireless/blueman
+net-wireless/bluez
+net-wireless/bluez-tools
+media-video/pipewire
+acct-user/pipewire
+media-video/wireplumber

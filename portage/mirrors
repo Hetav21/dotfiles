@@ -1,0 +1,20 @@
+# Gentoo Mirrors
+
+#MIRRORS=" \
+#    https://mirrors.nxtgen.com/gentoo-mirror/gentoo-source/ \
+#    https://mirror.bytemark.co.uk/gentoo/ \
+#    rsync://mirror.bytemark.co.uk/gentoo/ \
+#    https://mirrors.gethosted.online/gentoo/ \
+#    https://www.mirrorservice.org/sites/distfiles.gentoo.org/ \
+#    rsync://rsync.mirrorservice.org/distfiles.gentoo.org/ \
+#    https://mirror.clarkson.edu/gentoo/ \
+#    rsync://mirror.clarkson.edu/gentoo/ \
+#    rsync://rsync.gtlib.gatech.edu/gentoo \
+#    https://mirrors.mit.edu/gentoo-distfiles/ \
+#    rsync://mirrors.mit.edu/gentoo-distfiles/ \
+#    https://gentoo.osuosl.org/ \
+#    https://mirrors.rit.edu/gentoo/ \
+#    rsync://mirrors.rit.edu/gentoo/ \
+#    https://mirror.servaxnet.com/gentoo/"
+
+#GENTOO_MIRRORS="${MIRRORS}"

@@ -1,0 +1,45 @@
+# Flatpak
+sys-fs/fuse
+sys-apps/flatpak
+
+# Firewall
+net-firewall/ufw 
+
+# Shell
+app-shells/bash-completion
+app-shells/gentoo-zsh-completions
+app-shells/powerline
+app-shells/zsh
+app-shells/zsh-completions
+app-shells/zsh-syntax-highlighting
+
+# Keyring
+gnome-base/gnome-keyring
+
+# Power Management
+sys-apps/tuned
+app-laptop/laptop-mode-tools
+sys-power/power-profiles-daemon
+sys-power/powertop
+sys-power/thermald
+sys-power/tlp
+
+# Fontconfig
+media-libs/fontconfig
+media-libs/freetype
+
+# Docs
+app-text/doxygen
+
+# Desktop Portals
+sys-apps/xdg-desktop-portal
+sys-apps/xdg-desktop-portal-gtk
+sys-apps/xdg-desktop-portal-xapp
+gui-libs/xdg-desktop-portal-hyprland
+
+# Misc
+app-arch/unrar
+app-arch/xarchiver
+dev-util/librnp
+lxde-base/lxappearance
+gui-apps/qt6ct

@@ -1,0 +1,11 @@
+MAKEOPTS="-j7 -l7"
+EMERGE_DEFAULT_OPTS="-atv --jobs 7 --load-average 8"
+
+FEATURES="${FEATURES} gpg-keepalive buildpkg"
+#FEATURES="binpkg-signing"
+#EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --buildpkg-exclude "acct-*/* sys-kernel/*-sources virtual/*""
+BINPKG_COMPRESS="lz4"
+BINPKG_GPG_SIGNING_GPG_HOME="/etc/portage/gnupg"
+#BINPKG_GPG_SIGNING_KEY="0x1234567890ABCDEF"
+BINPKG_GPG_SIGNING_KEY="55E8D8C45583BDD7062A43A05C40E4C044D0D55E"
+

@@ -1,0 +1,2 @@
+#CPP_CPU_FLAGS="-march=alderlake -mabm -mno-cldemote -mno-kl -mno-pconfig -mno-sgx -mno-widekl -mshstk --param=l1-ca>
+COMMON_FLAGS="-O3 -pipe ${CPP_CPU_FLAGS} -flto=7"
