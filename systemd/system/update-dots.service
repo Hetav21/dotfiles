@@ -1,0 +1,11 @@
+[Unit]
+Description=Autocommit of changes in dotfiles directory
+DefaultDependencies=no
+Conflicts=shutdown.target
+After=local-fs.target time-sync.target
+Before=shutdown.target
+
+[Service]
+Type=oneshot
+ExecStart=<path-to-update-dots.sh>
+IOSchedulingClass=idle
