@@ -9,6 +9,8 @@
 
 #-------------------- exports --------------------
 
+##
+
 #export BUN_INSTALL="$HOME/.bun"
 #export PATH="$BUN_INSTALL/bin:$PATH"
 #export PATH=$PATH:/home/hetav/.spicetify
@@ -199,7 +201,7 @@ alias cachy-remove="sudo eclean-kernel -a && sudo emerge gentoo-kernel-bin"
 
 # change wallpaper
 alias change-wall="feh --bg-scale --randomize ~/Pictures/Wallpapers/*"
-alias fav-wall="feh --bg-scale /home/hetav/Pictures/Wallpapers/wallpapers/paint.png"
+alias fav-wall="feh --bg-scale /home/hetav/Pictures/Wallpapers/wallpics/paint.png"
 
 #-------------------- syntax highlighting --------------------
 
