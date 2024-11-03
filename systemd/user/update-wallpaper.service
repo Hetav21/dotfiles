@@ -1,0 +1,9 @@
+[Unit]
+Description=Update users wallpaper on hourly basis
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/feh --bg-scale --randomize /home/hetav/Pictures/Wallpapers/*
+
+[Install]
+WantedBy=default.target

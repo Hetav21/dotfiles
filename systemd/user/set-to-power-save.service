@@ -1,0 +1,10 @@
+[Unit]
+Description= Sets powerprofiles to power-saver on boot
+OnFaliure=/usr/bin/notify-send "Power Saver Failed"
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/powerprofilesctl set power-saver
+
+[Install]
+WantedBy=default.target

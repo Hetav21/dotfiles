@@ -1,0 +1,11 @@
+[Unit]
+Description= Mutes microphone on boot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/amixer -q -D pulse sset Capture toggle
+
+[Install]
+WantedBy=default.target

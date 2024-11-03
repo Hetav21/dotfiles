@@ -1,1 +1,1 @@
-../local/profiles/hardened-desktop-systemd
+../local-overlay/profiles/hardened-desktop-systemd
