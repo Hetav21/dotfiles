@@ -4,6 +4,7 @@ app-misc/ollama
 dev-util/github-cli
 media-sound/spotify
 net-misc/megasync
+sys-fs/inotify-tools
 
 # IDE
 app-editors/sublime-text
