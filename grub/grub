@@ -27,7 +27,8 @@ GRUB_TIMEOUT=5
 #
 # GRUB_CMDLINE_LINUX="apparmor=1 security=apparmor"
 GRUB_EARLY_INITRD_LINUX_CUSTOM="ucode.cpio"
-GRUB_CMDLINE_LINUX="quiet splash root=UUID=6b4483b7-6195-4c63-a7fa-ddf3cc5d987c nvidia-drm.modeset=1 apparmor=1 security=apparmor"
+## GRUB_CMDLINE_LINUX="quiet splash root=UUID=6b4483b7-6195-4c63-a7fa-ddf3cc5d987c nvidia-drm.modeset=1 apparmor=1 security=apparmor"
+GRUB_CMDLINE_LINUX="quiet root=UUID=6b4483b7-6195-4c63-a7fa-ddf3cc5d987c nvidia-drm.modeset=1 apparmor=1 security=apparmor"
 
 # Boot with network interface renaming disabled
 # GRUB_CMDLINE_LINUX="net.ifnames=0"
