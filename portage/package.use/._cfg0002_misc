@@ -162,9 +162,8 @@ x11-misc/appmenu-gtk-module wayland
 # required by @selected
 # required by @world (argument)
 >=dev-libs/lzo-2.10 static-libs
-
 # required by kde-apps/kio-extras-24.08.1::gentoo
 # required by kde-plasma/plasma-workspace-6.1.5-r3::gentoo
 # required by kde-plasma/xdg-desktop-portal-kde-6.1.5::gentoo
 # required by kde-plasma/plasma-integration-6.1.5::gentoo
->=media-libs/phonon-4.12.0-r4 qt6
+>=media-libs/phonon-4.12.0-r4 -qt6
