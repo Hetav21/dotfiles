@@ -4,7 +4,7 @@ Description=Daily autocommit of changes in dotfiles directory
 [Timer]
 OnCalendar=daily
 Persistent=true
-## OnBootSec=15min
+OnBootSec=15min
 
 [Install]
 WantedBy=timers.target
