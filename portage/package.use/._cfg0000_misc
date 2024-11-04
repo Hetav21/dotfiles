@@ -146,7 +146,6 @@ x11-misc/appmenu-gtk-module wayland
 # required by kde-plasma/plasma-meta-6.1.5::gentoo
 # required by @Desktop (argument)
 >=kde-plasma/kwin-6.1.5 lock
-
 # required by sys-power/suspend-1.0_p20200924::gentoo[crypt]
 # required by @11System
 # required by @selected

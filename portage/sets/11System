@@ -1,3 +1,4 @@
+sys-power/suspend
 app-admin/eclean-kernel
 app-admin/restart-services
 app-admin/sudo
@@ -21,6 +22,7 @@ sys-fs/dosfstools
 sys-fs/dosfstools
 
 # Kernel
+sys-apps/kmod
 sys-kernel/cachyos-sources
 sys-kernel/dracut
 sys-kernel/gentoo-kernel-bin
@@ -34,9 +36,23 @@ sys-boot/os-prober
 
 # Hardware
 sys-apps/nvme-cli
-sys-apps/pciutils
 sys-apps/watchdog
 sys-block/io-scheduler-udev-rules
+
+# Hardware Detection
+sys-apps/pciutils
+sys-apps/usbutils
+sys-apps/dmidecode
+sys-apps/hdparm
+sys-apps/hwinfo
+sys-apps/hw-probe
+sys-apps/inxi
+dev-libs/libinput
+net-print/cups
+sys-apps/input-utils
+sys-apps/lshw
+sys-apps/i2c-tools
+sys-apps/lm-sensors
 
 # Init and FS stuff
 sys-apps/systemd

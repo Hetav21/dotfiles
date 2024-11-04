@@ -201,6 +201,10 @@ alias cachy-remove="sudo eclean-kernel -a && sudo emerge gentoo-kernel-bin"
 alias change-wall="feh --bg-scale --randomize ~/Pictures/Wallpapers/*"
 alias fav-wall="feh --bg-scale /home/hetav/Pictures/Wallpapers/wallpics/paint.png"
 
+#-------------------- command not found --------------------
+
+source /etc/bash/bashrc.d/command-not-found.sh
+
 #-------------------- syntax highlighting --------------------
 
 source /usr/share/zsh/site-functions/zsh-syntax-highlighting.zsh
