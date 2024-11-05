@@ -3,6 +3,9 @@ app-misc/fastfetch
 app-misc/ufetch
 dev-libs/date
 
+# Plasma
+## kde-plasma/plasma-meta
+
 # Hyprland
 #gui-apps/waybar
 #gui-apps/wofi

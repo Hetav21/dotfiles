@@ -23,16 +23,16 @@ dev-debug/lldb
 dev-util/nvidia-cuda-toolkit
 
 # Python Dev
-dev-python/pandas
-dev-python/numpy
-dev-python/scikit-learn
-dev-python/statsmodels
-dev-python/scipy
-dev-python/matplotlib
-dev-python/seaborn
+#dev-python/pandas
+#dev-python/numpy
+#dev-python/scikit-learn
+#dev-python/statsmodels
+#dev-python/scipy
+#dev-python/matplotlib
+#dev-python/seaborn
 ## sci-libs/pytorch
-dev-python/jupyter
-dev-python/PyQtWebEngine
+#dev-python/jupyter
+#dev-python/PyQtWebEngine
 
 # Tex
 app-text/texlive
