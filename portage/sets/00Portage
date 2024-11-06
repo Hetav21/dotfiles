@@ -2,13 +2,16 @@
 app-eselect/eselect-repository
 dev-vcs/git
 
-# Features
+# Reuired by dispatch-conf
 app-misc/colordiff
+dev-util/imediff2 
+dev-vcs/rcs
+
+# Required by Portage
 net-misc/curl
 
 # Etckeeper
 sys-apps/etckeeper
-dev-vcs/rcs
 
 # Caching
 dev-util/ccache

@@ -1,9 +1,1 @@
-#media-video/obs-studio
-#media-video/vlc
-
-#www-client/firefox
-#mail-client/thunderbird
-#media-libs/libvpx
-#dev-qt/qtwebengine
-#www-client/firefox
-
+<=media-video/ffmpeg-6.1.1-r8:0/58.60.60::gentoo
