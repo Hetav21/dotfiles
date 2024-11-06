@@ -23,3 +23,8 @@ sync-uri = https://github.com/gentoo-mirror/CachyOS-kernels.git
 
 
 
+[calculate]
+location = /var/db/repos/calculate
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/calculate.git
+
