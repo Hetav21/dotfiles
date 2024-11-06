@@ -1,3 +1,9 @@
+#!/bin/sh
+
+### This scripts copies the existing kernel configuration and
+### starts the kernel compilation and install
+### along with re-emerging nvidia-drivers
+
 # Changes according to system
 DOTFILES_DIRECTORY="/home/hetav/dotfiles/"
 
@@ -5,12 +11,13 @@ DOTFILES_DIRECTORY="/home/hetav/dotfiles/"
 KERNEL_DIRECTORY="/usr/src/linux"
 
 # Copying Current Kernel Config
-sudo -u root cp ${DOTFILES_DIRECTORY}/kernel-config/current-config /usr/src/linux/.config
+cp ${DOTFILES_DIRECTORY}/kernel-config/current-config /usr/src/linux/.config
 
 # Make Commands
-sudo -u root make -C ${KERNEL_DIRECTORY} -j 8
-sudo -u root make -C ${KERNEL_DIRECTORY} modules_install
-sudo -u root make -C ${KERNEL_DIRECTORY} install
+make -C ${KERNEL_DIRECTORY} clean
+make -C ${KERNEL_DIRECTORY} -j 8
+make -C ${KERNEL_DIRECTORY} modules_install
+make -C ${KERNEL_DIRECTORY} install
 
 # Emerging Nvidia Drivers
-sudo EMERGE_DEFAULT_OPTS="" emerge nvidia-drivers
+EMERGE_DEFAULT_OPTS="" emerge nvidia-drivers
