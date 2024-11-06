@@ -2,6 +2,10 @@
 app-eselect/eselect-repository
 dev-vcs/git
 
+# Opengpg Keys Verification
+sec-keys/openpgp-keys-gentoo-release
+sec-keys/openpgp-keys-gentoo-developers
+
 # Reuired by dispatch-conf
 app-misc/colordiff
 dev-util/imediff2 
