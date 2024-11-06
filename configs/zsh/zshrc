@@ -9,6 +9,8 @@
 
 #-------------------- exports --------------------
 
+DOTFILES_DIRECTORY="/home/hetav/dotfiles"
+
 #export BUN_INSTALL="$HOME/.bun"
 #export PATH="$BUN_INSTALL/bin:$PATH"
 #export PATH=$PATH:/home/hetav/.spicetify
@@ -188,6 +190,8 @@ alias gen-install="sudo emerge -atv --quiet"
 alias gen-search="eix -R"
 
 alias gen-sync="cp /windows/Sync/* /home/hetav/Sync"
+
+alias genkernel="${DOTFILES_DIRECTORY}/scripts/genkernel.sh"
 
 # comman paths
 alias path-to-zsh="echo /home/hetav/dotfiles/configs/zsh/zshrc"
