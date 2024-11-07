@@ -1,29 +1,26 @@
-# From /usr/share/doc/etckeeper*/bashrc.example
-
-case "${EBUILD_PHASE}" in
-        setup|prerm) etckeeper pre-install ;;
-        postinst|postrm) etckeeper post-install ;;
-esac
-
+#case "${EBUILD_PHASE}" in
+#        setup|prerm) etckeeper pre-install ;;
+#        postinst|postrm) etckeeper post-install ;;
+#esac
 
 ## echo "Services that need to be restarted:" && restart-services -l && restart-services && /
 ## echo "Cleaning Packages and Distfiles" && eclean-pkg && eclean-dist && /
 
-#case "${EBUILD_PHASE}" in
-#        setup|prerm) etckeeper pre-install;;#
-#	preinst)
-#                if [ -z "${REPLACING_VERSIONS}" ]; then
-#                        DESC="Installing ${CATEGORY}/${PF}"
-#                else
-#                        DESC="Upgrading to ${CATEGORY}/${PF} replacing version(s) ${REPLACING_VERSIONS}"
-#                fi
-#                NUMBER=`snapper create -t pre -p -d "${DESC}" -c number`
-#                ;;
-#        postinst)
-#                snapper create -t post --pre-number $NUMBER -d "${DESC}" -c number
-#                ;;
-#	postinst|postrm) etckeeper post-install ;;
-#esac
+case "${EBUILD_PHASE}" in
+        setup|prerm) etckeeper pre-install;;#
+	preinst)
+                if [ -z "${REPLACING_VERSIONS}" ]; then
+                        DESC="Installing ${CATEGORY}/${PF}"
+                else
+                        DESC="Upgrading to ${CATEGORY}/${PF} replacing version(s) ${REPLACING_VERSIONS}"
+                fi
+                NUMBER=`snapper create -t pre -p -d "${DESC}" -c number`
+                ;;
+        postinst)
+                snapper create -t post --pre-number $NUMBER -d "${DESC}" -c number
+                ;;
+	postinst|postrm) etckeeper post-install ;;
+esac
 
 #if [ "${EBUILD_PHASE}" == "postinst" ] || [ "${EBUILD_PHASE}" == "postrm" ];
 #then

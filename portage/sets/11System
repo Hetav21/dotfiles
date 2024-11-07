@@ -56,7 +56,8 @@ sys-apps/lm-sensors
 
 # Init and FS stuff
 sys-apps/systemd
-sys-process/systemd-cron
+sys-process/cronie
+## sys-process/systemd-cron
 sys-fs/ntfs3g
 sys-fs/udiskie
 sys-block/parted
