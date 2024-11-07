@@ -2,7 +2,8 @@ dbus-update-activation-environment --all &
 light-locker &
 xrandr --setprovideroutputsource modesetting NVIDIA-0 &
 xrandr --auto &
-feh --bg-scale --randomize /home/hetav/Pictures/Wallpapers/* &
+feh --bg-scale /home/hetav/Pictures/Wallpapers/misc/artistic-boy-relaxing.jpg &
+#feh --bg-scale --randomize /home/hetav/Pictures/Wallpapers/* &
 picom --daemon &
 . ~/.scripts/xsetloop.sh &
 clipmenud &
