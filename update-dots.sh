@@ -7,7 +7,7 @@ PATH_TO_DOTFILES="/home/hetav/dotfiles/"
 
 ### changing user to root as the directory is owned by root
 # Copying portage files from etc into local directory
-sudo -u root cp -r /etc/portage ./
+## sudo -u root cp -r /etc/portage ./
 
 # git add, commit and push from the specified path
 sudo -u root git -C ${PATH_TO_DOTFILES} add . | bash
