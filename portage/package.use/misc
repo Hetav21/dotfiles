@@ -173,3 +173,6 @@ x11-misc/appmenu-gtk-module wayland
 # required by kde-plasma/xdg-desktop-portal-kde-6.1.5::gentoo
 # required by kde-plasma/plasma-integration-6.1.5::gentoo
 >=media-libs/phonon-4.12.0-r4 qt6
+# required by app-backup/timeshift-23.07.1::guru
+# required by timeshift (argument)
+>=x11-libs/xapp-2.8.5 vala introspection
