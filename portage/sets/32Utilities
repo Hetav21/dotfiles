@@ -1,3 +1,4 @@
+# GUI Utility
 app-misc/ranger
 xfce-base/thunar-volman
 xfce-base/xfce4-settings
@@ -5,12 +6,15 @@ xfce-base/thunar
 app-text/zathura-meta
 app-editors/mousepad
 
+# TTY Utility
 net-misc/curl
 app-text/tree
 sys-apps/bat
 app-shells/zoxide
 sys-apps/ripgrep
 sys-apps/eza
-
 sys-apps/fd
 app-shells/fzf
+
+# Backup Utility
+app-backup/snapper
