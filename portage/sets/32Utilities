@@ -18,3 +18,4 @@ app-shells/fzf
 
 # Backup Utility
 app-backup/snapper
+app-backup/grub-btrfs
