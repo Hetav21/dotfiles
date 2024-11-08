@@ -1,0 +1,12 @@
+[Unit]
+Description=Starts rclone mount
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/rclone --vfs-cache-mode writes mount 'Adani:University' /home/hetav/University --allow-non-empty
+Persistent=true
+
+[Install]
+WantedBy=default.target

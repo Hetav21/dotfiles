@@ -17,3 +17,5 @@ app-containers/nvidia-container-toolkit
 app-emulation/wine-proton
 app-emulation/winetricks
 
+# NetFS
+net-misc/rclone
