@@ -2,6 +2,7 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
+		"SublimeAStyleFormatter",
 	],
 	"color_scheme": "Dark+.sublime-color-scheme",
 	"theme": "Afterglow.sublime-theme",

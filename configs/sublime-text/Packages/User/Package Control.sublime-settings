@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeAStyleFormatter",
 	],
 	"installed_packages":
 	[
@@ -12,12 +13,12 @@
 		"Markdown Extended",
 		"One Dark Material - Theme",
 		"Package Control",
+		"Sass",
 		"SublimeAStyleFormatter",
 		"SublimeLinter",
 		"SublimeLinter-clang",
 		"SublimeLinter-cpplint",
 		"SublimeLinter-gcc",
-		"Syntax Highlighting for Sass",
 		"Terminal",
 		"Theme - Afterglow",
 		"Visual Studio Code Plus Scheme",
