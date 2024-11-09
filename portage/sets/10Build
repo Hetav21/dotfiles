@@ -4,6 +4,7 @@ dev-db/sqlite
 dev-lang/rust
 dev-python/snakeoil
 sys-devel/clang
+sys-libs/compiler-rt-sanitizers
 sys-devel/gcc
 sys-devel/lld
 sys-devel/llvm

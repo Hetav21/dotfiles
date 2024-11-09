@@ -4,3 +4,5 @@ amd64 hardened-desktop-split-usr dev
 amd64 hardened-plasma stable
 amd64 hardened-plasma-systemd stable
 amd64 hardened-plasma-split-usr stable
+amd64 llvm-desktop dev
+amd64 llvm-desktop-systemd dev

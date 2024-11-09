@@ -205,6 +205,7 @@ alias cachy-remove="sudo eclean-kernel -a && sudo emerge gentoo-kernel-bin"
 alias change-wall="feh --bg-scale --randomize ~/Pictures/Wallpapers/*"
 alias fav-wall-1="feh --bg-scale /home/hetav/Pictures/Wallpapers/wallpics/paint.png"
 alias fav-wall-2="feh --bg-scale /home/hetav/Pictures/Wallpapers/misc/artistic-boy-relaxing.jpg"
+alias fav-wall-3="feh --bg-scale /home/hetav/dotfiles/Wallpapers/misc/walls-from-www/emerge.png"
 
 #-------------------- command not found --------------------
 
