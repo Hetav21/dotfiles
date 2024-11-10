@@ -36,6 +36,7 @@ sys-apps/xdg-desktop-portal
 sys-apps/xdg-desktop-portal-gtk
 sys-apps/xdg-desktop-portal-xapp
 gui-libs/xdg-desktop-portal-hyprland
+gui-libs/hyprutils # Required by gui-libs/xdg-desktop-portal-hyprland
 
 # Misc
 app-arch/unrar

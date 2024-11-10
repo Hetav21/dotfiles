@@ -1,0 +1,11 @@
+COMMON_FLAGS="-march=native -O3 -pipe"
+## COMMON_FLAGS="${COMMON_FLAGS} -fplugin=LLVMPolly.so -mllvm -polly -mllvm -polly-parallel -lgomp -mllvm -polly -mllvm -polly-vectorizer=stripmine"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+FCFLAGS="${COMMON_FLAGS}"
+FFLAGS="${COMMON_FLAGS}"
+
+CC="clang"
+CXX="clang++"
+
+LDFLAGS="-fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -Wl,--as-needed"

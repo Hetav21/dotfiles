@@ -14,8 +14,8 @@ app-containers/distrobox
 app-containers/nvidia-container-toolkit
 
 # Emulation
-app-emulation/wine-proton
-app-emulation/winetricks
+##app-emulation/wine-proton
+##app-emulation/winetricks
 
 # NetFS
 net-misc/rclone
