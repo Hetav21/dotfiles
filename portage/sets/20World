@@ -24,19 +24,13 @@ sys-power/powertop
 sys-power/thermald
 sys-power/tlp
 
-# Fontconfig
-media-libs/fontconfig
-media-libs/freetype
-
 # Docs
 app-text/doxygen
 
 # Desktop Portals
 sys-apps/xdg-desktop-portal
 sys-apps/xdg-desktop-portal-gtk
-sys-apps/xdg-desktop-portal-xapp
-gui-libs/xdg-desktop-portal-hyprland
-gui-libs/hyprutils # Required by gui-libs/xdg-desktop-portal-hyprland
+## sys-apps/xdg-desktop-portal-xapp
 
 # Misc
 app-arch/unrar

@@ -1,9 +1,5 @@
 USE="${USE} symlink"
 
-post_pkg_postinst() {
-	sh /home/hetav/dotfiles/scripts/genkernel.sh
-}
-
 # This is added to make options by linux-mod.eclass
 BUILD_FIXES="LLVM=1 LLVM_IAS=1"
 

@@ -4,7 +4,6 @@ app-admin/restart-services
 app-admin/sudo
 app-text/ansifilter
 dev-debug/dtrace
-dev-libs/openssl
 dev-util/pkgcheck
 sys-apps/cpuid
 sys-apps/dbus
@@ -16,8 +15,6 @@ sys-power/acpi
 
 # Extras
 sys-boot/syslinux
-##sys-kernel/modprobed-db
-##dev-libs/libisoburn
 sys-fs/dosfstools
 sys-fs/dosfstools
 
@@ -47,7 +44,6 @@ sys-apps/hdparm
 sys-apps/hwinfo
 sys-apps/hw-probe
 sys-apps/inxi
-dev-libs/libinput
 net-print/cups
 sys-apps/input-utils
 sys-apps/lshw
@@ -57,7 +53,6 @@ sys-apps/lm-sensors
 # Init and FS stuff
 sys-apps/systemd
 sys-process/cronie
-## sys-process/systemd-cron
 sys-fs/ntfs3g
 sys-fs/udiskie
 sys-block/parted
@@ -74,7 +69,6 @@ sys-process/audit
 
 # Utilities
 app-text/wgetpaste
-sys-libs/timezone-data
 
 # App Alternatives
 app-alternatives/bc

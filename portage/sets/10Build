@@ -11,10 +11,5 @@ dev-lang/python
 # Clang
 sys-devel/clang 
 sys-devel/llvm 
-sys-libs/llvm-libunwind 
 sys-devel/lld
-sys-libs/compiler-rt 
-sys-libs/compiler-rt-sanitizers
-sys-libs/libcxx
-sys-libs/libcxxabi
 ## sys-devel/polly

@@ -1,8 +1,3 @@
-media-libs/libva-intel-media-driver
-media-libs/nvidia-vaapi-driver
-dev-util/vulkan-tools
-media-libs/vulkan-layers
-media-libs/vulkan-loader
 media-video/libva-utils
 x11-misc/vdpauinfo
 

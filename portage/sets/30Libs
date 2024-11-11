@@ -1,0 +1,17 @@
+dev-libs/date
+media-libs/libva-intel-media-driver
+media-libs/nvidia-vaapi-driver
+
+# Satisfied by USE flags
+## media-libs/mesa
+## media-libs/fontconfig
+## media-libs/freetype
+## media-libs/vulkan-layers
+## media-libs/vulkan-loader
+## sys-libs/timezone-data
+
+# Not Needed RN
+## gui-libs/xdg-desktop-portal-hyprland
+## gui-libs/hyprutils # Required by gui-libs/xdg-desktop-portal-hyprland
+## dev-libs/libisoburn
+
