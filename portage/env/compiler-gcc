@@ -1,4 +1,4 @@
-CPU_FLAGS="-march=alderlake -mabm -mno-cldemote -mno-kl -mno-pconfig -mno-sgx -mno-widekl -mshstk --param=l1-cache-line-size=64 --param=l1-cache-size=32 --param=l2-cache-size=24576"
+CPU_FLAGS="-march=native"
 COMMON_FLAGS="-O3 -pipe ${CPU_FLAGS}"
 CFLAGS="${COMMON_FLAGS}"
 CXXFLAGS="${COMMON_FLAGS}"

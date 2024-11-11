@@ -1,6 +1,6 @@
-CPU_FLAGS="-march=alderlake -mabm -mno-cldemote -mno-kl -mno-pconfig -mno-sgx -mno-widekl -mshstk --param=l1-cache-line-size=64 --param=l1-cache-size=32 --param=l2-cache-size=24576"
+CPU_FLAGS="-march=polly"
 COMMON_FLAGS="-O3 -pipe {CPU_FLAGS}"
-## COMMON_FLAGS="${COMMON_FLAGS} -fplugin=LLVMPolly.so -mllvm -polly -mllvm -polly-parallel -lgomp -mllvm -polly -mllvm -polly-vectorizer=stripmine"
+COMMON_FLAGS="${COMMON_FLAGS} -fplugin=LLVMPolly.so -mllvm -polly -mllvm -polly-parallel -lgomp -mllvm -polly -mllvm -polly-vectorizer=stripmine"
 CFLAGS="${COMMON_FLAGS}"
 CXXFLAGS="${COMMON_FLAGS}"
 FCFLAGS="${COMMON_FLAGS}"

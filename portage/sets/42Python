@@ -8,6 +8,6 @@
 #dev-python/seaborn
 ## sci-libs/pytorch
 
-dev-python/jupyter
+#dev-python/jupyter
 dev-python/PyQtWebEngine
 
