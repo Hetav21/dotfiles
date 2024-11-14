@@ -20,5 +20,3 @@ app-containers/nvidia-container-toolkit
 # NetFS
 net-misc/rclone
 
-# Secure Boot
-app-crypt/sbctl

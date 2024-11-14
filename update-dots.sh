@@ -1,3 +1,4 @@
+#!/bin/bash
 ### This scripts pushes the dots using git
 
 # Enter the path to dotfiles
