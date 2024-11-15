@@ -28,3 +28,6 @@ EMERGE_DEFAULT_OPTS="--quiet" emerge @module-rebuild # Emerging external modules
 make -C ${KERNEL_DIRECTORY} modules_install
 make -C ${KERNEL_DIRECTORY} install
 
+# Signing for Secure Boot
+## TODO: Only sign the kernel
+sbctl sign-all
