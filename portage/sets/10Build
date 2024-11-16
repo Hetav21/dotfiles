@@ -4,11 +4,9 @@ dev-db/sqlite
 dev-lang/rust
 dev-python/snakeoil
 sys-devel/gcc
-sys-devel/mold
 dev-java/openjdk
 dev-lang/python
-
-# Clang
+sys-devel/mold
 sys-devel/clang 
 sys-devel/llvm 
 sys-devel/lld

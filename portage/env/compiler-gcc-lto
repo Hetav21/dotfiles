@@ -2,13 +2,11 @@
 #ERROR2WARNING="-Wno-error=return-mismatch -Wno-error=implicit-int -Wno-error=implicit-function-declaration"
 #"-Wno-error=incompatible-function-pointer-types -Wno-error=cast-function-type-strict -Wno-error=incompatible-function-pointer-types-strict
 WARNING_FLAGS="-Werror=odr -Werror=lto-type-mismatch -Werror=strict-aliasing"
-CPU_FLAGS="-march=native"
-COMMON_FLAGS="-O3 -pipe ${CPU_FLAGS} -flto=7 ${WARNING_FLAGS} ${ERROR2WARNING}"
+COMMON_FLAGS="-O3 -pipe -flto=7 -march=native ${WARNING_FLAGS}"
 CFLAGS="${COMMON_FLAGS}"
 CXXFLAGS="${COMMON_FLAGS}"
 FCFLAGS="${COMMON_FLAGS}"
 FFLAGS="${COMMON_FLAGS}"
-LC_MESSAGES=C.utf8
 
 CC="gcc"
 CXX="g++"
@@ -17,4 +15,3 @@ AR="ar"
 NM="nm"
 RANLIB="ranlib"
 
-RUSTFLAGS="-C target-cpu=native -C opt-level=3"
