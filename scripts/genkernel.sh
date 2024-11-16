@@ -11,7 +11,7 @@ DOTFILES_DIRECTORY="/home/hetav/dotfiles"
 KERNEL_DIRECTORY="/usr/src/linux"
 
 # Copying Current Kernel Config
-cp ${DOTFILES_DIRECTORY}/kernel-config/current-config /usr/src/linux/.config
+## cp ${DOTFILES_DIRECTORY}/kernel-config/current-config /usr/src/linux/.config
 
 # Defining no of jobs in make
 JOBS=`expr $(nproc) / 2`
